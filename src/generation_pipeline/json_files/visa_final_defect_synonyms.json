@@ -1,0 +1,170 @@
+{
+    "candle": {
+        "general": [
+            "Cracked Wax Surface: The smooth cream-colored wax top features a jagged fissure running from the edge toward the center wick hole, exposing a darker interior layer where the material has split under thermal stress.",
+            "Sunken Wick Well: The circular depression surrounding the wick appears excessively deep and irregular, with the wax collapsing inward to create an uneven crater that disrupts the flat top surface.",
+            "Color Discoloration: An irregular patch of the wax surface has turned yellowish-brown or grey, contrasting sharply with the uniform cream color of the surrounding area due to heat exposure or chemical contamination.",
+            "Air Bubble Voids: Large spherical cavities appear trapped beneath the smooth wax surface, visible as bulging domes or collapsed pits that break the uniform flat plane of the candle top.",
+            "Chipped Edge: The clean circular perimeter of the candle is interrupted by a rough, irregular chunk missing from the rim, revealing the inner wax structure with sharp, jagged edges.",
+            "Melted Deformation: A section of the candle top appears glossy and distorted, with the wax sagging or flowing out of its intended flat circular shape due to partial melting from heat.",
+            "Embedded Debris: A visible foreign particle such as a dark fiber, hair, or dirt speck is embedded in the smooth wax surface, contrasting with the pristine cream color.",
+            "Wick Damage: The central fabric wick is frayed, broken off at the base, or completely missing from its anchoring hole, leaving an empty void or torn fiber ends.",
+            "Surface Scratches: Deep, linear grooves cut across the smooth wax top, disrupting the uniform texture where the material has been scraped or gouged by a sharp object.",
+            "Mold Contamination: Small, dark green or black fuzzy spots appear scattered across the wax surface, indicating fungal growth from moisture exposure in storage."
+        ]
+    },
+    "capsules": {
+        "general": [
+            "Cracked Shell: A thin, jagged fracture line runs along the length of the green gelatin body, indicating where the hard structure has snapped or split under pressure.",
+            "Dented Surface: The smooth, rounded curvature of the capsule is interrupted by a sunken, concave dimple where the shell has been pressed inward without completely breaking.",
+            "Leaking Contents: Fine yellowish oil or liquid droplets are visible on the exterior of the transparent green shell, seeping out from a breach or loose connection in the capsule wall.",
+            "Discoloration Patches: Irregular cloudy white or opaque areas appear within the normally transparent green gelatin, indicating degradation or moisture absorption.",
+            "Melted Deformation: The capsule appears soft, sticky, and warped, with the gelatin losing its distinct oval shape and glossy finish due to exposure to heat or high humidity.",
+            "Split Seam: The longitudinal seam where the two halves of the capsule meet shows visible separation or a gap, compromising the hermetic seal and potentially exposing the internal contents.",
+            "Surface Scratches: Light-colored abrasions cut across the glossy green surface, disrupting the smooth reflective finish where the gelatin has been scraped.",
+            "Crushed Shape: The oval form is compressed and flattened asymmetrically, causing the shell to buckle and lose its characteristic elongated geometry.",
+            "Puncture Hole: A small, distinct perforation penetrates the gelatin shell, breaking the integrity of the capsule and creating a dark void in the surface.",
+            "Cloudy Interior: The normally clear or uniformly colored contents visible through the transparent green shell appear murky, separated, or contain visible particles indicating degradation."
+        ]
+    },
+    "cashew": {
+        "general": [
+            "Cracked Shell Fragments: Broken pieces of the thin brown shell remain adhered to sections of the pale cashew kernel, disrupting the smooth curved surface.",
+            "Dark Rot Spots: Irregular, blackened or dark brown patches appear on the cashew surface, suggesting internal decay, mold growth, or oxidation damage.",
+            "Insect Damage: Small round bore holes or irregular chew marks penetrate the nut surface, indicating pest infestation with visible entry points.",
+            "Shriveled Appearance: The cashew appears wrinkled, sunken, and dehydrated rather than plump and smooth, with the characteristic kidney shape distorted and deflated.",
+            "Surface Mold: Fuzzy white, green, or grey fungal growth obscures portions of the natural pale cream color of the cashew due to moisture exposure.",
+            "Split Kernel: The cashew nut is cracked or split into two or more pieces along its natural seam, with visible fracture surfaces exposing the interior.",
+            "Discoloration Streaks: Unusual reddish, grey, or yellowish staining mars the uniform cream color of the nut surface, indicating chemical changes or contamination.",
+            "Mechanical Damage: Deep gouges, scratches, or compression marks disfigure the smooth curved surface of the cashew, showing where it was crushed or scraped.",
+            "Oil Rancidity: The surface appears excessively oily or has a sticky, darkened coating, with a loss of the natural matte texture indicating lipid oxidation.",
+            "Foreign Material: Visible dirt, soil particles, or other debris are embedded in the cashew surface or trapped in the natural grooves of the kidney-shaped nut."
+        ]
+    },
+    "chewinggum": {
+        "general": [
+            "Wrapper Tear: The protective packaging is ripped or partially opened, exposing the gum inside to air and potentially compromising its freshness and texture.",
+            "Discoloration: The normally uniform white or cream color of the gum has turned yellowish, grey, or brown, indicating age, exposure, or chemical degradation.",
+            "Hardened Texture: The gum surface appears brittle and cracked rather than soft and pliable, with visible fissures suggesting moisture loss and staleness.",
+            "Surface Stickiness: The exterior of the gum looks glossy and tacky, with a melted or softened appearance caused by heat exposure, making it adhere to surfaces.",
+            "Chipped Corner: A rough, irregular section is broken away from the rectangular edge of the gum piece, leaving jagged fragments and disrupting the clean geometric shape.",
+            "Embedded Debris: Visible foreign particles such as lint, hair, or dust are stuck to or embedded in the soft gum surface, contrasting with the intended clean appearance.",
+            "Mold Growth: Small dark spots or fuzzy patches appear on the gum surface, indicating fungal contamination from moisture and improper storage.",
+            "Melted Deformation: The rectangular shape is distorted and warped, with the gum appearing partially melted, flattened, or fused to packaging due to high temperature.",
+            "Scratches and Gouges: Deep linear marks or indentations mar the smooth surface of the gum where it has been scraped or pressed by a sharp object.",
+            "Sugar Crystallization: Rough, white crystalline deposits form on the gum surface, creating a sandy or grainy texture as sugars separate and recrystallize over time."
+        ]
+    },
+    "fryum": {
+        "general": [
+            "Broken Spokes: One or more of the six radial struts connecting the outer ring to the center hub are snapped or completely missing, disrupting the wheel-like pattern.",
+            "Burnt Patches: Dark brown or blackened areas appear on sections of the fryum surface, indicating over-frying or scorching that creates a bitter taste and acrid appearance.",
+            "Deformed Shape: The circular symmetry is distorted, with the wheel appearing warped, bent, or flattened rather than maintaining its flat, evenly-spaced radial structure.",
+            "Oil Soaking: The fryum appears excessively greasy and darkened, with a saturated, limp texture instead of the crisp, light appearance of properly fried product.",
+            "Incomplete Expansion: Sections of the fryum remain dense and under-puffed compared to the rest, showing uneven cooking with some areas failing to expand properly during frying.",
+            "Surface Blistering: Large irregular bubbles or raised pockets appear on the flat surface, creating an uneven texture with thin, fragile areas that easily collapse.",
+            "Missing Segments: One or more of the triangular sections between the spokes is broken out or missing entirely, leaving gaps in the circular pattern.",
+            "Color Inconsistency: The fryum shows uneven coloration with pale white areas mixed with deep orange-brown sections, indicating non-uniform frying temperature or time.",
+            "Cracked Surface: Fine fracture lines run across the surface of the wheel, with pieces threatening to break apart and the structural integrity compromised.",
+            "Embedded Impurities: Dark specks, foreign particles, or burnt dough fragments are visible embedded in the fryum surface, contaminating the otherwise uniform texture."
+        ]
+    },
+    "macaroni1": {
+        "general": [
+            "Cracked Shell: Jagged fracture lines run across the curved pasta surface, with pieces threatening to break apart and the shell's structural integrity compromised.",
+            "Discoloration Spots: Irregular dark brown, black, or white patches mar the uniform yellow-orange color of the pasta, indicating mold, burning, or contamination.",
+            "Broken Pieces: The shell-shaped pasta is fragmented into multiple pieces rather than maintaining its complete curved form, with rough fracture edges visible.",
+            "Surface Pitting: Small crater-like depressions or pinholes scatter across the smooth pasta surface, disrupting the uniform texture and indicating manufacturing defects.",
+            "Deformed Shape: The characteristic curved shell form is warped, flattened, or irregularly twisted, losing the uniform concentric ridge pattern and symmetrical curvature.",
+            "Burnt Edges: The rims and tips of the shell appear darkly toasted or charred, turning brown or black from excessive heat during drying or storage.",
+            "Mold Growth: Fuzzy white, green, or black spots appear on the pasta surface, indicating fungal contamination from moisture exposure.",
+            "Chipped Surface: Rough, irregular gouges or missing chunks disrupt the smooth ridged texture of the shell, exposing the interior starch matrix.",
+            "Embedded Debris: Visible foreign material such as dark specks, insect fragments, or dirt particles are trapped in the ridges or embedded in the pasta surface.",
+            "Moisture Damage: The pasta appears swollen, soft, or sticky rather than dry and hard, with a distorted shape and loss of the crisp texture from humidity exposure."
+        ]
+    },
+    "macaroni2": {
+        "general": [
+            "Fractured Elbow: The curved tubular pasta is broken or cracked at the bend, with jagged edges exposing the hollow interior and compromising structural integrity.",
+            "Color Variations: Uneven coloration creates patches of pale white mixed with normal yellow, or darker brown areas indicating inconsistent drying or heat damage.",
+            "Crushed Shape: The tubular form is flattened or compressed, losing the round hollow cross-section and characteristic elbow curvature.",
+            "Surface Cracks: Fine hairline fractures run along the length of the pasta tube, threatening to split the piece apart with continued handling.",
+            "Burnt Discoloration: Dark brown or black scorched areas appear on the pasta surface, indicating exposure to excessive heat during processing or storage.",
+            "Mold Contamination: Visible fuzzy growth in white, green, or black colors appears on the exterior surface, indicating fungal infestation from moisture.",
+            "Chipped Edges: The cut ends of the tubular pasta are irregular and ragged rather than smooth and clean, with fragments broken away.",
+            "Deformed Curvature: The elbow bend angle is irregular or asymmetric, with the tube twisted or kinked rather than maintaining a smooth, uniform curve.",
+            "Embedded Particles: Dark specks, foreign matter, or contamination are visible embedded in the pasta wall or trapped inside the hollow tube.",
+            "Swollen from Moisture: The pasta appears bloated and soft rather than hard and dry, with the surface losing its smooth finish and becoming sticky or tacky."
+        ]
+    },
+    "pcb1": {
+        "general": [
+            "Cracked Substrate: A visible fracture line runs through the blue PCB material, splitting the board and potentially severing internal copper traces beneath the surface.",
+            "Burnt Components: The ultrasonic sensor mesh, resistors, or solder joints show blackened, charred areas with blistered plastic indicating electrical overcurrent or short circuit damage.",
+            "Lifted Trace: The white silkscreen or copper trace is peeling away from the blue substrate, creating a raised section or complete separation that breaks electrical connectivity.",
+            "Corrosion on Pins: The metal header pins at the top show dark, rough oxidation or green verdigris buildup, degrading electrical contact and structural integrity.",
+            "Missing Component: A resistor, capacitor, or other small component that should be soldered to the board is absent, leaving empty pads or holes visible.",
+            "Solder Bridge: Excess solder creates an unintended connection between adjacent pins or traces, forming a shiny metallic bridge that causes electrical short circuits.",
+            "Scratched Solder Mask: Deep gouges or scrapes cut through the blue protective coating, exposing the underlying copper or substrate material in irregular patterns.",
+            "Damaged Sensor Mesh: The protective metal mesh covering the ultrasonic transducers is dented, punctured, or torn, exposing the sensitive ceramic element underneath.",
+            "Cold Solder Joint: Solder connections appear dull, grainy, and cracked rather than smooth and shiny, indicating poor electrical and mechanical bonding.",
+            "Delamination: The blue solder mask is bubbling, peeling, or separating from the PCB substrate in patches, revealing the rough brown or green material underneath."
+        ]
+    },
+    "pcb2": {
+        "general": [
+            "Cracked Board: A jagged fracture runs through the blue PCB substrate, potentially severing copper traces and compromising the structural and electrical integrity.",
+            "Burnt IC Package: The black plastic housing of an integrated circuit shows melted, blistered, or charred areas indicating severe overheating or electrical failure.",
+            "Lifted Component Lead: One or more metal pins of an IC or other component are bent upward and not properly seated in their through-holes or surface mount pads.",
+            "Corroded Contacts: The metal leads and solder joints appear dull, dark, or covered with green/white oxidation buildup, degrading electrical conductivity.",
+            "Missing Capacitor: A small cylindrical electrolytic capacitor or disc capacitor is absent from its designated location, leaving empty solder pads or holes.",
+            "Solder Splash: Irregular droplets or beads of solder are scattered across the board surface, potentially creating short circuits between traces or component leads.",
+            "Scratched Traces: The white printed circuit traces or silkscreen markings are gouged or scraped away, exposing the bare copper or substrate material beneath.",
+            "Damaged IC Marking: The printed text on the integrated circuit package is illegible, scraped off, or obscured, making component identification impossible.",
+            "Bent Header Pins: The straight metal pins at the edge connector are twisted, kinked, or broken, preventing proper insertion into a socket or connector.",
+            "Flux Residue Buildup: Excessive sticky brown or white flux deposits cover components and traces, potentially causing corrosion or electrical leakage over time."
+        ]
+    },
+    "pcb3": {
+        "general": [
+            "Fractured Substrate: A visible crack or split runs through the PCB material, compromising mechanical strength and potentially breaking internal copper trace connections.",
+            "Component Overheat: Discoloration, melting, or charring appears around a component body or solder joint, indicating thermal damage from excessive current or poor heat dissipation.",
+            "Trace Delamination: Copper traces are lifting or peeling away from the board surface, creating gaps in the circuit and potential open-circuit failures.",
+            "Pin Corrosion: Metal component leads and connector pins show rough, darkened oxidation or greenish corrosion deposits that impair electrical contact.",
+            "Solder Joint Crack: The solder connection between a component lead and pad appears fractured or separated, creating an unreliable or intermittent electrical connection.",
+            "Missing Resistor: A small surface-mount or through-hole resistor is absent from its designated location, leaving empty pads and disrupting circuit function.",
+            "Solder Mask Damage: The protective blue coating is scratched, gouged, or worn away in areas, exposing underlying copper traces to potential short circuits and corrosion.",
+            "Foreign Object: Debris such as solder balls, wire clippings, or other conductive material is present on the board, risking short circuits or mechanical interference.",
+            "IC Package Crack: The black plastic body of an integrated circuit shows visible cracks or splits, potentially exposing the internal silicon die to contamination.",
+            "Pad Lifting: A solder pad has separated from the PCB substrate, breaking the connection point for a component and making reliable soldering impossible."
+        ]
+    },
+    "pcb4": {
+        "general": [
+            "Board Crack: A fracture line runs through the PCB substrate, visibly splitting the material and potentially severing critical internal circuit traces.",
+            "Burnt Component Area: Blackened, charred material surrounds a component location, with evidence of smoke damage or melting from electrical overcurrent.",
+            "Corroded Solder Joint: The solder connection appears dull, rough, or covered with dark oxidation, indicating poor contact and potential circuit failure.",
+            "Lifted IC Pin: One or more integrated circuit leads are bent upward or not properly connected to their solder pads, creating an open circuit.",
+            "Trace Breakage: A visible gap or scratch interrupts the continuity of a copper circuit trace, breaking the electrical pathway.",
+            "Missing Component: An IC, capacitor, resistor, or other component that should be present is absent, leaving empty pads or holes on the board.",
+            "Solder Bridge: Excess solder creates an unintended metallic connection between adjacent pins or traces, causing electrical short circuits.",
+            "Delaminated Mask: The blue solder mask protective coating is peeling, bubbling, or separated from the PCB surface in patches.",
+            "Contamination: Foreign material such as flux residue, dust, or conductive debris is visible on the board surface, risking shorts or corrosion.",
+            "Mechanical Damage: Deep scratches, gouges, or impact marks damage the PCB surface, potentially cutting through traces or exposing internal layers."
+        ]
+    },
+    "pipe_fryum": {
+        "general": [
+            "Cracked Surface: Jagged fracture lines run across the textured rectangular surface, with the fried snack threatening to break into multiple pieces.",
+            "Burnt Patches: Dark brown or blackened areas appear on sections of the surface, indicating over-frying or scorching that creates bitter, acrid flavors.",
+            "Broken Pieces: The rectangular shape is fragmented into smaller sections rather than maintaining its complete form, with rough fracture edges visible.",
+            "Incomplete Puffing: Dense, hard areas remain unexpanded compared to the rest, showing uneven cooking where some sections failed to puff properly during frying.",
+            "Oil Saturation: The product appears excessively greasy, darkened, and limp, with oil visibly soaking through rather than maintaining a crisp, light texture.",
+            "Deformed Shape: The rectangular form is warped, bent, or twisted rather than lying flat, with irregular thickness and distorted edges.",
+            "Surface Blistering: Large irregular air pockets or raised bubbles appear on the flat surface, creating fragile thin areas that easily collapse or rupture.",
+            "Color Inconsistency: Uneven coloration creates patches of pale beige mixed with deep brown areas, indicating non-uniform frying temperature distribution.",
+            "Mold Contamination: Dark spots or fuzzy growth appear on the surface, indicating fungal contamination from moisture exposure during storage.",
+            "Embedded Debris: Foreign particles, burnt crumbs, or contamination are visible embedded in or stuck to the textured surface of the fried product."
+        ]
+    }
+}

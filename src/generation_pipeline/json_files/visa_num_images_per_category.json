@@ -1,0 +1,38 @@
+{
+    "candle": {
+        "general": 500
+    },
+    "capsules": {
+        "general": 500
+    },
+    "cashew": {
+        "general": 500
+    },
+    "chewinggum": {
+        "general": 500
+    },
+    "fryum": {
+        "general": 500
+    },
+    "macaroni1": {
+        "general": 500
+    },
+    "macaroni2": {
+        "general": 500
+    },
+    "pcb1": {
+        "general": 500
+    },
+    "pcb2": {
+        "general": 500
+    },
+    "pcb3": {
+        "general": 500
+    },
+    "pcb4": {
+        "general": 500
+    },
+    "pipe_fryum": {
+        "general": 500
+    }
+}

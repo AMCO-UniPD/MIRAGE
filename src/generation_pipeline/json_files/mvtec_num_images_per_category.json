@@ -1,0 +1,47 @@
+{
+    "bottle": {
+        "general": 500
+    },
+    "cable": {
+        "general": 500
+    },
+    "capsule": {
+        "general": 500
+    },
+    "carpet": {
+        "general": 500
+    },
+    "grid": {
+        "general": 500
+    },
+    "hazelnut": {
+        "general": 500
+    },
+    "leather": {
+        "general": 500
+    },
+    "metal_nut": {
+        "general": 500
+    },
+    "pill": {
+        "general": 500
+    },
+    "screw": {
+        "general": 500
+    },
+    "tile": {
+        "general": 500
+    },
+    "toothbrush": {
+        "general": 500
+    },
+    "transistor": {
+        "general": 500
+    },
+    "wood": {
+        "general": 500
+    },
+    "zipper": {
+        "general": 500
+    }
+}

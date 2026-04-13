@@ -1,0 +1,212 @@
+{
+    "zipper": {
+        "general": [
+            "Tape Fraying: The edges of the fabric tape become unraveled, resulting in loose threads sticking out from the sides.",
+            "Broken Stitching: The specific thread running along the edge of the coil snaps or unravels, causing the plastic coil to detach from the fabric tape.",
+            "Coil Abrasion: The surface of the black plastic teeth becomes scuffed or scratched, often turning whitish or gray due to friction against a slider or external surfaces.",
+            "Crushed Coil: The spiral teeth appear flattened or deformed, usually caused by heavy pressure or stepping on the zipper.",
+            "Zipper Burst/Separation: The left and right sides of the coil separate and pop open in the middle, even though the slider (not pictured) might be pulled up.",
+            "Kinked or Misaligned Teeth: The smooth, straight line of the center zipper chain looks crooked, bent, or has a distinct 'hump,' preventing the slider from moving past that point.",
+            "Tape Discoloration: The black color of the fabric fades to gray or reddish-brown due to UV (sun) exposure or chemical bleaching.",
+            "Punctures or Tears: Visible holes or rips in the woven fabric tape, distinct from the edges.",
+            "Waviness (Tape Distortion): The zipper tape does not lie flat and looks rippled (like bacon), usually caused by shrinkage of the tape relative to the coil.",
+            "Melted Elements: Since this is a synthetic coil (likely polyester or nylon), high heat (like from an iron) can melt the teeth, causing them to fuse together or lose their shape."
+        ]
+    },
+    "bottle": {
+        "general": [
+            "Chipped Sealing Surface: The smooth, circular top rim of the bottle is interrupted by a jagged, concave depression where a shard of glass has broken away, exposing sharp edges.",
+            "Split Finish (Vertical Crack): A reflective, hairline fracture runs vertically from the top of the rim down through the neck, visible as a bright line cutting through the amber glass.",
+            "Choked Bore: The dark circular opening in the center appears irregular or partially obstructed by a lump of excess glass on the inside wall, making the opening narrower than intended.",
+            "Bird Swing (Glass Filament): A thin, needle-like strand of glass stretches across the interior of the bottle opening or connects two sides of the inner wall, visible against the dark background.",
+            "Crizzled or Weathered Surface: The glossy amber surface of the glass appears dull, hazy, or covered in a network of fine, microscopic web-like cracks due to chemical deterioration.",
+            "Blisters or Seeds: Small, spherical air bubbles are trapped within the glass material of the rim or neck, appearing as tiny, light-refracting spheres inside the solid wall.",
+            "Cracked Thread/Locking Ring: The raised ridges on the outside of the neck show a visible fracture or a missing section where the glass ridge has snapped off.",
+            "Bruised Glass (Impact Check): A small, crescent-shaped or star-shaped fracture is visible within the glass wall, indicating a point of impact that didn't shatter the bottle but compromised its strength.",
+            "Stones (Inclusions): An opaque, solid particle (like unmelted sand or ceramic) is embedded in the glass wall, looking like a dark or white speck surrounded by a stress halo.",
+            "Out-of-Round Rim: The top opening is not a perfect circle but appears oval or flattened on one side, which would prevent a cap from sealing distinctively."
+        ]
+    },
+    "capsule": {
+        "general": [
+            "Cracked Shell: A thin, jagged line runs along the length of the orange body or black cap, indicating where the hard gelatin structure has snapped under pressure.",
+            "Dented Surface: The smooth, rounded curvature of the capsule is interrupted by a sunken, concave dimple where the shell has been pressed inward without breaking.",
+            "Separated Cap: The black cap is partially slid off the orange body, creating a visible gap between the two halves and potentially exposing the powder inside.",
+            "Rubbed/Defective Printing: The white '500' or 'Actavis' text is blurry, smeared, or partially scraped off, making the dosage or brand difficult to read.",
+            "Crushed Capsule: The cylindrical shape is compressed and flattened, causing the shell to buckle, crack, and lose its symmetry.",
+            "Melted or Deformed Shell: The surface of the capsule appears glossy, sticky, and warped, losing its distinct cylindrical shape due to exposure to heat or high humidity.",
+            "Leaking Contents: Fine white powder is visible dusting the exterior of the black or orange shell, escaping from a breach or loose connection in the capsule wall.",
+            "Punctured Wall: A small, distinct hole or puncture mark penetrates the outer shell, breaking the hermetic seal of the medicine.",
+            "Split Joint (Telescoping): The orange body shows a vertical split where it enters the black cap, caused by the two halves being pushed together too forcefully during assembly.",
+            "Swollen/Moisture Damage: The capsule appears noticeably larger and puffy with a softened texture, indicating it has absorbed moisture from the environment."
+        ]
+    },
+    "carpet": {
+        "general": [
+            "Stains or Discoloration: An irregular, darkened patch appears on the woven surface where a liquid like coffee or wine has soaked into the fibers, discoloring the original grey texture.",
+            "Snagged Loop (Pull): A single thread or yarn is pulled upward from the tight weave, creating a visible raised loop or long loose strand that disrupts the uniform flat pattern.",
+            "Burn Mark: A small, circular area features blackened, melted, or singed fibers with a central crater, indicating damage from a heat source like a cigarette or ember.",
+            "Tear or Rip: The woven fabric is physically separated, showing a jagged gap with loose, frayed thread ends sticking out where the material has been torn apart.",
+            "Fraying: The individual fibers within the woven strands have started to unwind and separate, creating a fuzzy, undefined appearance instead of a tight, clean grid.",
+            "Crushed Texture (Indentation): A distinct depression appears where the woven fibers are compressed flat and mashed together, losing their texture depth, likely caused by a heavy furniture leg.",
+            "Color Fading (Bleaching): A section of the carpet appears significantly lighter or white compared to the surrounding area, looking washed out due to sun exposure or a chemical spill.",
+            "Mold or Mildew: Dark, irregular splotches or a fuzzy powdery residue appear growing within the weave, indicating fungal growth due to trapped moisture.",
+            "Puncture or Hole: A complete void exists in the fabric where material is missing, revealing the floor or backing layer underneath, surrounded by broken thread ends.",
+            "Abrasive Wear: A specific area looks worn down and thinned out, with the top layer of the weave eroded away to reveal the underlying structure due to excessive friction or foot traffic."
+        ]
+    },
+    "grid": {
+        "general": [
+            "Bent Strand: A single metal bar within the diamond pattern is twisted or pushed out of alignment, disrupting the uniform geometric repetition.",
+            "Broken Node: The solid junction point where strands intersect has snapped, leaving a visible gap and loose, disconnected metal ends.",
+            "Surface Corrosion: Patches of rough, reddish-brown rust cover the dark grey metal, indicating oxidation that is eating away at the surface.",
+            "Impact Dent: A section of the grid appears concave or depressed, with the diamond shapes distorted and pulled inward toward a central point of impact.",
+            "Abrasive Scratches: The dark surface finish is marred by bright, silvery streaks or shallow grooves where the coating has been scraped off to reveal the base metal.",
+            "Clogged Apertures: The open diamond-shaped holes are partially or fully blocked by accumulated debris, dirt, or dried paint, obstructing the view through the mesh.",
+            "Jagged Cut Edge: The outer boundary of the grid features sharp, irregular metal spikes or burrs where the strands have been severed unevenly.",
+            "Warped Planar Surface: The grid no longer lies flat but shows a wavy, undulating profile, with some sections rising above the intended level plane.",
+            "Missing Material: A distinct void interrupts the continuous pattern where a group of strands has been cut out or completely removed.",
+            "Peeling Coating: The dark outer layer is cracking and flaking away, revealing a contrasting, uneven surface texture on the metal underneath."
+        ]
+    },
+    "hazelnut": {
+        "general": [
+            "Cracked Shell: A visible fracture line runs across the hard brown surface, splitting the outer casing and potentially exposing the inner kernel to air.",
+            "Insect Bore Hole: A perfectly round, small dark hole penetrates the shell wall, indicating where a weevil or pest has drilled into or out of the nut.",
+            "Surface Mold: Patches of fuzzy white, green, or grey fungal growth obscure the natural brown color and striations of the shell due to moisture exposure.",
+            "Crushed Hull: The spherical shape is destroyed, with the hard shell fragmented into multiple sharp, irregular shards and collapsed inward.",
+            "Dark Rot Spots: Irregular, blackened, or oily-looking stains appear on the shell surface, suggesting internal decay or deep moisture penetration.",
+            "Damaged Basal Scar: The rough, lighter-colored circular cap at the top is chipped, torn, or partially detached, leaving a raw or jagged area at the attachment point.",
+            "Rodent Gnawing: The shell features rough, serrated edges and distinct parallel scrape marks where a rodent's teeth have attempted to chew through the hard material.",
+            "Shriveled or Deformed Shape: The nut appears asymmetrical, sunken, or heavily wrinkled instead of plump and smooth, indicating poor development or drying out.",
+            "Surface Abrasions: The smooth brown finish is marred by light-colored scratches or scrapes where the outer skin has been rubbed away by friction.",
+            "Split Apex: The pointed bottom tip of the nut is split open or blunted, breaking the natural teardrop curve of the shell."
+        ]
+    },
+    "leather": {
+        "general": [
+            "Surface Scratches: Thin, light-colored abrasions cut across the pebbled grain, disrupting the consistent brown pattern where the top layer of dye has been scraped away.",
+            "Deep Cracking (Desiccation): The surface features a network of deep, fissure-like splits penetrating the texture, revealing lighter fibers underneath due to extreme dryness or aging.",
+            "Liquid Stain: An irregular, darkened blotch discolors the brown surface, where oil or water has absorbed into the pores, creating a distinct, permanent shadow.",
+            "Cigarette Burn: A small, circular crater features blackened, hardened edges and a shriveled center, destroying the grain texture at the point of contact.",
+            "Jagged Tear: A complete breach in the material shows rough, fibrous edges where the leather has been ripped apart, exposing the backing or interior padding.",
+            "Sun Fading: A large section of the leather appears washed out and pale compared to the rich brown surrounding it, having lost its pigment density due to UV exposure.",
+            "Peeling Finish: The top textured layer is flaking off in uneven patches, revealing a fuzzy or fabric-like substrate underneath the smooth outer skin.",
+            "Puncture Hole: A clean, round, or slit-like perforation penetrates the leather surface, leaving a dark void surrounded by slightly depressed edges.",
+            "Mold or Mildew: Patches of powdery white or greenish fuzzy residue obscure the grain pattern, clinging to the crevices of the leather texture.",
+            "Heavy Creasing: Deep, permanent furrows or fold lines traverse the surface where the material has been repeatedly bent, disrupting the uniform pebble grain."
+        ]
+    },
+    "metal_nut": {
+        "general": [
+            "Stripped Internal Threads: The spiral grooves inside the central hole appear flattened or sheared off, leaving a rough, undefined inner wall that cannot grip a bolt.",
+            "Surface Corrosion (Rust): The shiny, iridescent metallic finish is spotted with rough, reddish-brown oxidation patches, indicating the protective plating has failed.",
+            "Bent Flange (Prong): One of the four projecting metal wings is twisted or curled out of alignment with the main flat plane, distorting the nut's symmetry.",
+            "Stress Crack: A jagged, dark fissure radiates from the central bore outward across the metal surface, signaling a structural failure under tension.",
+            "Burred Edge: The rim of the central hole or the outer perimeter features sharp, raised metal slivers or rough irregularities left by poor machining.",
+            "Impact Dent: The flat top surface of the nut is interrupted by a concave gouge or depression where a tool or heavy object has struck the metal.",
+            "Obstructed Bore: The dark central opening is partially blocked by accumulated debris, metal shavings, or a broken screw fragment, obscuring the clear path.",
+            "Sheared Wing: One of the four distinct corner extensions has snapped off completely, leaving a rough, jagged fracture surface where the metal is missing.",
+            "Peeling Plating: The smooth zinc coating is blistering or flaking away in patches, revealing the dull, uneven base metal texture underneath.",
+            "Cross-Threaded Entrance: The very top entry thread of the central hole is mangled and cut across the grain, creating a visible deformation that blocks smooth insertion."
+        ]
+    },
+    "pill": {
+        "general": [
+            "Chipped Edge: The smooth, oval perimeter of the tablet is broken by a rough, irregular divot where a section of the compressed powder has crumbled away, disrupting the continuous curve.",
+            "Fractured Surface: A distinct, jagged hairline crack traverses the white face of the pill, threatening to split the oval shape into two separate pieces.",
+            "Capping (Lamination): The top layer of the tablet is visibly separating horizontally from the main body, creating a thin, flaky gap or shelf along the side edge of the oval.",
+            "Moisture Spotting: The white surface is marred by dark, damp-looking splotches where liquid has been absorbed, causing the red speckles to bleed or blur into the surrounding area.",
+            "Eroded Imprint: The debossed 'FF' lettering appears faint, shallow, or filled in with excess powder, losing its sharp definition and depth against the tablet surface.",
+            "Surface Erosion (Friability): The exterior looks dusty, rough, and pitted rather than smooth, with loose white powder clinging to the edges indicating the binding material is failing.",
+            "Yellowing/Oxidation: The pristine white background has turned a dull, off-white or yellowish hue, contrasting poorly with the red speckles due to chemical degradation or aging.",
+            "Pitted Surface: Small, crater-like pinholes punctuate the smooth face of the pill, distinct from the intentional red speckles, suggesting air pockets or manufacturing defects.",
+            "Embedded Contaminant: A dark, foreign hair, fiber, or dirt particle is pressed into the white surface, clearly clashing with the intended red and white pattern.",
+            "Swollen/Bloated Shape: The pill appears thicker and softer than intended, with the oval edges looking rounded and puffy due to significant moisture absorption from the environment."
+        ]
+    },
+    "screw": {
+        "general": [
+            "Stripped Drive Recess: The cross-shaped slots on the screw head are rounded out and deformed, destroying the geometric pattern needed for a screwdriver to engage.",
+            "Bent Shank: The straight cylindrical body of the screw is visibly bowed or kinked at an angle, disrupting the linear alignment from head to tip.",
+            "Blunted Tip: The sharp, needle-like point at the bottom of the screw is snapped off or flattened into a dull stump, preventing it from piercing wood effectively.",
+            "Flattened Threads: The spiral ridges along the lower shaft are crushed or mashed down, losing their sharp crests and reducing the screw's holding power.",
+            "Surface Corrosion: The grey metal surface is spotted with rough, reddish-brown rust patches, indicating oxidation is eating into the steel structure.",
+            "Cracked Neck: A hairline fracture is visible just below the flat head where it joins the shank, indicating a stress point that could lead to the head snapping off.",
+            "Gouged Smooth Shank: The unthreaded upper section of the shaft features deep, irregular scratches or cuts where the metal has been scraped by a tool or obstruction.",
+            "Burred Head Rim: The circular outer edge of the screw head is jagged and rough, with raised metal splinters caused by a slipping tool or impact.",
+            "Thread Galling: The grooves between the spiral threads are clogged with smeared metal or debris, and the thread surfaces appear rough and torn due to friction.",
+            "Peeling Plating: The protective coating is blistering or flaking away, revealing the duller base metal underneath and compromising corrosion resistance."
+        ]
+    },
+    "toothbrush": {
+        "general": [
+            "Splayed Bristles: The individual nylon filaments are permanently bent outward and flattened in a disorganized fan shape, destroying the tight, upright tuft structure due to excessive pressure.",
+            "Cracked Plastic Base: A dark, jagged hairline fracture runs across the smooth white head, splitting the solid material between the anchor holes where the bristles are inserted.",
+            "Missing Tuft: A distinct, empty cylindrical hole appears in the brush head pattern where a complete cluster of bristles has been pulled out, leaving a visible void in the plastic base.",
+            "Mold Accumulation: Dark, black or greenish spots are visible at the very base of the bristles where they enter the plastic, indicating fungal growth trapped in the deep crevices.",
+            "Frayed Tips: The tops of the blue and white bristles look fuzzy and split, losing their clean-cut ends and appearing ragged or broom-like due to wear.",
+            "Discolored Bristles: The pristine white and blue bristles have turned a yellowish or dull grey color, losing their brightness due to the accumulation of plaque, toothpaste residue, or aging.",
+            "Gouged Rim (Bite Marks): The smooth outer edge of the white plastic head is marred by rough, irregular scratches and deep indentations caused by teeth chewing on the hard material.",
+            "Melted Bristles: The tips of the nylon strands are fused together into hard, irregular plastic beads or clumps, losing their individual fibrous shape due to exposure to high heat.",
+            "Calcified Residue: A hard, crusty white layer coats the spaces between the bristle tufts and the plastic base, masking the clean surface with dried toothpaste or hard water deposits.",
+            "Matted Clump: A specific section of the bristles is smashed flat and tangled together in a messy, non-vertical knot, failing to spring back to an upright position."
+        ]
+    },
+    "tile": {
+        "general": [
+            "Hairline Crack: A thin, jagged fracture line runs across the speckled surface, interrupting the continuous pattern without completely separating the tile pieces.",
+            "Surface Chip (Spalling): A concave, irregular divot appears on the flat face where a flake of the top material has popped off, exposing the rougher, lighter-colored body underneath.",
+            "Deep Scratches: Sharp, linear white grooves cut across the polished grain, disrupting the grey and black speckles where the surface finish has been gouged by a hard object.",
+            "Chemical Stain: An irregular, darkened blotch discolors the grey and white pattern, where a liquid has penetrated the porous surface and left a permanent, shadowy mark.",
+            "Crazing: A network of very fine, spiderweb-like fissures covers the glazed surface, visible only under direct light, indicating tension or failure in the surface coating.",
+            "Acid Etching: A rough, dull patch contrasts with the surrounding sheen, where an acidic substance has eaten away the polished finish, leaving a matte texture.",
+            "Chipped Edge: The straight, clean perimeter line is broken by a rugged, irregular gap where a section of the border has snapped off, leaving a sharp, non-linear edge.",
+            "Surface Pitting: Small, pinhead-sized craters scatter across the face of the tile, breaking the smooth finish with tiny, rough depressions caused by impact or manufacturing defects.",
+            "Abrasive Wear Pattern: A specific area appears widely faded and smoother than the rest, where the distinct speckled pattern has been worn down and muted by repeated foot traffic.",
+            "Yellowing/Discoloration: The lighter white or grey background areas have taken on a dingy, yellowish hue, contrasting with the original clean look due to aging or UV exposure."
+        ]
+    },
+    "transistor": {
+        "general": [
+            "Cracked Epoxy Case: The black plastic body features a visible hairline fracture or deep split running across its surface, potentially exposing the internal silicon die.",
+            "Bent or Shorted Leads: The three silver metal legs are twisted out of alignment, with one leg bent sharply enough to touch a neighboring lead, creating an unintended electrical short.",
+            "Thermal Damage (Burn Mark): The smooth black face of the component is marred by a blistered, whitish, or melted patch, indicating the transistor has overheated significantly.",
+            "Snapped Terminal: One of the projecting metal leads is broken off completely near the base of the package, leaving a short, jagged stump that cannot connect to the board.",
+            "Corroded Leads: The typically shiny metal legs appear dull, dark, or covered in a rough, greenish oxidation layer that compromises electrical contact.",
+            "Illegible Part Marking: The laser-etched or ink-stamped text on the flat front face is faded, scratched, or rubbed off, making the component type unidentifiable.",
+            "Chipped Housing: A corner or edge of the rectangular black plastic casing is missing, revealing a rough, irregular fracture surface where the material has broken away.",
+            "Lead Discoloration: The metal leads exhibit a bluish or purplish heat tint near the plastic body, suggesting exposure to excessive temperature during operation or soldering.",
+            "Exploded Package: The center of the transistor face features a distinct crater or hole with ragged edges where the internal pressure from a catastrophic failure caused the plastic to burst.",
+            "Lifted Lead Base: The point where a metal leg enters the black plastic body appears widened or cracked, indicating mechanical stress has pulled the lead loose from the packaging."
+        ]
+    },
+    "wood": {
+        "general": [
+            "Deep Scratch: A distinct, light-colored linear gouge cuts across the vertical grain, interrupting the smooth brown pattern where the surface fibers have been severed.",
+            "Surface Burn Mark: A dark, charred patch with blackened, carbonized wood fibers disrupts the natural color, indicating contact with a high-heat source.",
+            "Water Stain: An irregular, dark ring or splotch discolors the wood surface, creating a distinct boundary where moisture has penetrated and altered the grain's appearance.",
+            "Vertical Split: A deep crack runs parallel to the wood grain, showing a physical separation where the material has dried out and pulled apart, creating a dark void.",
+            "Wood Rot: A section of the surface appears soft, spongy, and discolored (often white or dark brown), losing its structural integrity and distinct grain pattern due to fungal decay.",
+            "Insect Bore Holes: Small, perfectly round holes scatter across the surface, marking entry or exit points where wood-boring insects have tunneled into the material.",
+            "Impact Dent: The flat surface is interrupted by a concave depression where the wood fibers are crushed and compressed without breaking, likely from a heavy object strike.",
+            "Splintered Surface: The surface fibers are raised and peeling away in jagged, needle-like strips, destroying the smooth finish and creating a rough, hazardous texture.",
+            "Loose Knot Hole: A dark, empty void exists where a hard knot has shrunk and fallen out, interrupting the continuous flow of the vertical grain lines.",
+            "Surface Mold: Fuzzy, dark green or black splotches grow along the grain lines, obscuring the natural wood texture due to persistent dampness."
+        ]
+    },
+    "cable": {
+        "general": [
+            "Please generate an image showing a deep gash in the outer casing based on this image. Cut Outer Sheath: The white outer protective layer features a visible slice or split that penetrates the surface, partially revealing the colored inner wires underneath.",
+            "Please generate an image showing bare metallic wires based on this image. Exposed Conductor: The colored insulation (blue, brown, or yellow-green) is missing or stripped away in a section, leaving the bright copper wire strands completely visible and unprotected.",
+            "Please generate an image showing deformed, oozing plastic based on this image. Melted Insulation: The insulation layers appear warped, shiny, and globular, losing their distinct circular shapes and potentially fusing together due to exposure to high heat.",
+            "Please generate an image showing green or blackened metal strands based on this image. Corroded Copper: The copper strands inside the insulation are no longer bright and shiny but appear dull, dark black, or covered in a green powdery oxidation residue.",
+            "Please generate an image showing a flattened, oval cable shape based on this image. Crushed Profile: The overall circular cross-section of the cable is compressed into a flat or oblong shape, with the inner wires squeezed tightly against each other, distorting the outer white ring.",
+            "Please generate an image showing messy, untwisted wire strands based on this image. Frayed Strands: The individual copper filaments within a conductor are no longer tightly bundled but are splayed outward, bent, or disorderly, resembling a messy brush.",
+            "Please generate an image showing blackened, soot-covered surfaces based on this image. Charred Surface: The white outer sheath and inner insulation are blackened with carbon deposits and appear brittle or ash-like, indicating damage from an electrical fire or short circuit.",
+            "Please generate an image showing dry, fissure-covered plastic based on this image. Cracked Insulation: The outer white sheath shows a network of fine cracks or splits running along its length, suggesting the material has become brittle from aging or UV exposure.",
+            "Please generate an image showing ragged, bitten edges based on this image. Rodent Damage: The cable surface looks rough and jagged with irregular chunks of plastic missing from the insulation, resembling the distinct marks left by animal chewing.",
+            "Please generate an image showing a sharp, collapsed bend based on this image. Kinked Cable: The cable is bent at a sharp angle that causes the outer sheath to buckle and crease, pinching the internal wires and deforming the smooth exterior line."
+        ]
+    }
+}
