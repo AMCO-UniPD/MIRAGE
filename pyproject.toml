@@ -32,3 +32,8 @@ override-dependencies = [
     "opencv-python>=4.10.0,<4.10.1 ; python_version < '3'",
     "opencv-python-headless>=4.10.0,<4.10.1 ; python_version < '3'",
 ]
+
+[tool.uv.workspace]
+members = [
+    "OminiControl",
+]
