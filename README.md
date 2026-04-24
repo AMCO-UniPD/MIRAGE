@@ -17,6 +17,7 @@ echo "GOOGLE_API_KEY=your_key" > .env
 │   ├ generation_pipeline/    # Image generation using Gemini AI
 │   │   ├ main.py             # Main generation script
 │   │   └ json_files/         # Config files (synonyms, counts)
+│   ├ CLIP-selection/         # CLIP-based generation quality filter
 │   └ survey/                 # Survey website and analysis
 ├ datasets/
 └ outputs/
@@ -58,6 +59,42 @@ CUDA_VISIBLE_DEVICES=0 uv run src/change_detection/change_detection_pipeline.py 
     --yoloe-gating --resume --no-develop --generate-all-masks \
     --fast-viz --metrics-only-final \
     --dataset-path $DATASET
+```
+
+
+## CLIP-based Generation Quality Filter
+
+Filter out poorly generated anomaly images using CLIP similarity scoring.
+Flags images where the anomaly image is more similar to the normal prompt than the anomaly prompt.
+
+**Single image pair:**
+```bash
+python src/CLIP-selection/CLIP-selection.py pair \
+    anomaly.png normal.png \
+    "This is a damaged transistor image with cracked epoxy case." \
+    "This is an intact transistor image without any damage."
+```
+
+**Batch mode from tracking CSV:**
+```bash
+CUDA_VISIBLE_DEVICES=1 python src/CLIP-selection/CLIP-selection.py batch \
+    generation_tracking.csv \
+    /path/to/generated/images \
+    /path/to/normal/images \
+    bad_generations.log
+```
+
+CSV format expected: `category, ?, anomaly_prompt, anomaly_image_path, normal_image_path, ...`
+
+Output: appends bad cases to the log file with similarity scores.
+
+**As a module:**
+```python
+from CLIP_selection import setup_model, clip_score, is_bad_generation
+
+model, preprocess, tokenizer, device = setup_model()
+bad = is_bad_generation(a_path, n_path, prompt_anomaly, prompt_normal,
+                         model, preprocess, tokenizer, device)
 ```
 
 
